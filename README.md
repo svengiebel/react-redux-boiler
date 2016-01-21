@@ -2,10 +2,14 @@
 
 React Application with Redux.
 
-  - babel ES6
-  - webpack compiler .jsx, .scss
-  - routing via react-router
-  - data handeling with react-redux / redux
+  - webpack
+  - babel es6
+  - react (react-dom)
+  - react-router / react-simple-router
+  - axios
+  - redux
+  - react-redux
+  - lodash
 
 ### Installation
 
